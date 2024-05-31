@@ -1,7 +1,3 @@
-Aquí tienes el README completo para el repositorio que hemos imaginado:
-
----
-
 # News Keyword Extractor
 
 Este proyecto contiene un módulo en Python que busca y extrae noticias de varios feeds RSS utilizando una lista de keywords proporcionada y almacena los resultados en Google BigQuery. Este software está diseñado para ser integrado fácilmente en otros proyectos de Python y proporciona una manera eficiente de mantenerse actualizado con las noticias relevantes basadas en keywords específicas.
@@ -91,6 +87,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
----
-
-Con este README, los usuarios tendrán una guía clara sobre cómo instalar, configurar y usar el módulo de extracción de noticias. También se incluye información sobre cómo automatizar el proceso y contribuir al proyecto.
